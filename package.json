@@ -1,0 +1,22 @@
+{
+  "name": "integration-testing-with-postman",
+  "version": "1.0.0",
+  "description": "API Integration testing with Postman and Newman for DMoney transaction API",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run collection/dmoney_api_collection.json -e collection/dmoney_environment.json --delay-request 500",
+    "report": "newman run collection/dmoney_api_collection.json -e collection/dmoney_environment.json --delay-request 500 -r cli,html --reporter-html-export Reports/report.html"
+  },
+  "keywords": [
+    "postman",
+    "newman",
+    "api-testing",
+    "integration-testing"
+  ],
+  "author": "Student",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "newman": "^6.2.3"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+Reports/
+.env
+.DS_Store

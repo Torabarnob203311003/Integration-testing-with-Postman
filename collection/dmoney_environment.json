@@ -1,0 +1,159 @@
+{
+  "id": "c1f7b82e-9d2a-4a6c-9b1a-8c7e2f1a3b5c",
+  "name": "Dmoney-env",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:4000",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "partnerKey",
+      "value": "ROADTOSDET",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "adminToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "systemToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "agentToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer1Token",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Token",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "merchantToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "agentId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer1Id",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Id",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "merchantId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "agentPhone",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer1Phone",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Phone",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "merchantPhone",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer1Email",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Email",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "agentEmail",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "merchantEmail",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "agentOtp",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer1Otp",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Otp",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer1Nid",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Nid",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2026-11-07T17:38:00.000Z",
+  "_postman_exported_using": "Postman/10.0.0"
+}
